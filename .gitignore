@@ -4,3 +4,5 @@ train.csv
 submission.csv
 *.pyc
 *.pyc
+submission_665.csv
+submission_sk.csv
